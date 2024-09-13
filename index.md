@@ -45,7 +45,7 @@ Szenarien und Lösungsideen aus der Praxis mit Team Topologies.
 Sicherheitslücke durch Abhängigkeiten sind für Attacken wie
 Solarwinds, Equifax oder XZ verantwortlich. Und der EU Cyber
 Resilience Act zwingt zum Handeln. Supply Chain Security hilft bei der
-Absicherung des Bild-Prozesses. Jochen Mader wird dazu live von der
+Absicherung des Build-Prozesses. Jochen Mader wird dazu live von der
 BED-Con Rede und Antwort stehen, wo er auch einen Vortrag zum Thema
 hält.
 
